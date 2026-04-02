@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "BOT5",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "itscrazyrcb.aternos.me",
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm a regular come play player",
+        "Subscribe to ITScrazy95!",
         "I like to play Minecraft!"
       ]
     },
