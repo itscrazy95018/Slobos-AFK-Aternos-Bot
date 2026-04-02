@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "itscrazyrcb.aternos.me",
-    "port": 5527,
-    "version": "1.21.11 (127)",
+    "port": 15527,
+    "version": "",
     "try-creative": false
   },
   "position": {
