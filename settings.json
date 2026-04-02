@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "CRAZY",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ITScrazy95",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "itscrazyrcb.aternos.me",
     "port": 5527,
-    "version": "",
+    "version": "1.21.11 (127)",
     "try-creative": false
   },
   "position": {
